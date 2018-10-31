@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/habitat-discovery.iml" filepath="$PROJECT_DIR$/habitat-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/habitat-discovery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/habitat-discovery_main.iml" group="habitat-discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/habitat-discovery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/habitat-discovery_test.iml" group="habitat-discovery" />
+    </modules>
+  </component>
+</project>
