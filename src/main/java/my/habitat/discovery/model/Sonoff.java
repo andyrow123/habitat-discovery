@@ -32,7 +32,7 @@ public class Sonoff extends Manufacturer {
     }
 
     @Override
-    public void createClient(String brokerAddress, String clientId) {
+    public void search(String brokerAddress, String clientId) {
 
     }
 }

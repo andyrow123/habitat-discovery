@@ -29,7 +29,6 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
     testImplementation 'org.mockito:mockito-core:2.23.0'
-//    testImplementation group: 'org.powermock', name: 'powermock-core', version: '1.7.4'
     testImplementation group: 'org.powermock', name: 'powermock-module-junit4', version: '2.0.0-beta.5'
     testImplementation group: 'org.powermock', name: 'powermock-api-mockito2', version: '2.0.0-beta.5'
 

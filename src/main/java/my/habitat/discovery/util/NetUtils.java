@@ -12,22 +12,26 @@ import java.util.Collections;
 import java.util.Enumeration;
 import java.util.List;
 
-public class NetUtils {
-    public static InetAddress getIp() {
+public final class NetUtils {
+    public static String getIp() {
 
-        InetAddress ipAddr = null;
+        InetAddress localHost = null;
 
         try {
-            ipAddr = InetAddress.getLocalHost();
-            System.out.println(ipAddr.getHostAddress());
+            localHost = InetAddress.getLocalHost();
+            System.out.println(localHost);
         } catch (UnknownHostException ex) {
             ex.printStackTrace();
         }
 
-        return ipAddr;
+        assert localHost != null;
+
+        return localHost.getHostAddress();
     }
 
-    public static void scanSubnetRange(String subnet) throws IOException {
+    public static void scanSubnetRange(String hostIp) {
+
+        String subnet = hostIp.substring(0, hostIp.lastIndexOf("."));
 
         int timeout=1000;
         for (int i=1;i<255;i++){

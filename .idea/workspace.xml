@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d14efd-d34a-4a8c-8323-b779af6e85f9" name="Default Changelist" comment="" />
+    <list default="true" id="c0d14efd-d34a-4a8c-8323-b779af6e85f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_mockito2_2_0_0_beta_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/model/Manufacturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/model/Manufacturer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/model/Sonoff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/model/Sonoff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/util/NetUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/my/habitat/discovery/util/NetUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/my/habitat/discovery/util/NetUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/my/habitat/discovery/util/NetUtilsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,87 +83,82 @@
         <counts>
           <entry key="MockMaker" value="1" />
           <entry key="bat" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="gradle" value="3" />
-          <entry key="gradlew" value="1" />
-          <entry key="java" value="16" />
+          <entry key="gradlew" value="2" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Bash" value="1" />
+          <entry key="Bash" value="2" />
+          <entry key="Git file" value="1" />
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="19" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="gradle" value="54" />
-          <entry key="java" value="1572" />
+          <entry key="gradle" value="55" />
+          <entry key="java" value="2295" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="54" />
-          <entry key="JAVA" value="1572" />
+          <entry key="Groovy" value="55" />
+          <entry key="JAVA" value="2295" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="habitat-discovery" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2220#2221#0" expanded="true" />
-                <element signature="e#2286#2287#0" expanded="true" />
+                <element signature="e#2278#2279#0" expanded="true" />
+                <element signature="e#2345#2346#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DiscoveryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" selection-start-line="4" selection-start-column="2" selection-end-line="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="232">
+              <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -163,6 +175,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -342,7 +357,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6163514320000" />
+        <entry key="$PROJECT_DIR$" value="6163598380000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1838811529" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1781704101" />
@@ -464,13 +479,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/Library.java" />
         <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/Discovery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java" />
         <option value="$PROJECT_DIR$/src/test/java/DiscoveryTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -484,6 +500,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -572,9 +589,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540976220141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541061592257" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -606,7 +624,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NetUtilsTest">
+  <component name="RunManager" selected="JUnit.NetUtilsTest.getIp_returnsAValidHostIp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -651,7 +669,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NetUtilsTest.getIpReturnsAStringIpAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="habitat-discovery_test" />
       <extension name="coverage">
         <pattern>
@@ -661,7 +679,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="my.habitat.discovery.util" />
       <option name="MAIN_CLASS_NAME" value="my.habitat.discovery.util.NetUtilsTest" />
-      <option name="METHOD_NAME" value="getIpReturnsAStringIpAddress" />
+      <option name="METHOD_NAME" value="getIp_returnsAValidHostIp" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -726,19 +744,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.NetUtilsTest.getIpReturnsAStringIpAddress" />
       <item itemvalue="JUnit.NetUtilsTest" />
       <item itemvalue="JUnit.NetUtilsTest.getIp_throwsSocketExceptionWhenNetworkError" />
       <item itemvalue="JUnit.NetUtilsTest.getIp_returnsOnlyIpv4Addresses" />
       <item itemvalue="JUnit.NetUtilsTest.getHostIp_returnsAValidHostIp" />
+      <item itemvalue="JUnit.NetUtilsTest.getIp_returnsAValidHostIp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NetUtilsTest.getIp_returnsAValidHostIp" />
         <item itemvalue="JUnit.NetUtilsTest" />
         <item itemvalue="JUnit.NetUtilsTest.getHostIp_returnsAValidHostIp" />
         <item itemvalue="JUnit.NetUtilsTest.getIp_returnsOnlyIpv4Addresses" />
         <item itemvalue="JUnit.NetUtilsTest.getIp_throwsSocketExceptionWhenNetworkError" />
-        <item itemvalue="JUnit.NetUtilsTest.getIpReturnsAStringIpAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -752,54 +770,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540846556687</updated>
-      <workItem from="1540846582301" duration="21388000" />
+      <workItem from="1540846582301" duration="32227000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.30 at 21h 59m 48s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 04m 03s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.30 at 22h 01m 40s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 13m 23s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.30 at 22h 21m 44s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 17m 28s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.30 at 22h 27m 58s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 19m 37s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.30 at 22h 56m 40s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 19m 58s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.31 at 08h 43m 42s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 22m 53s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest_getHostIp_returnsAValidHostIp - 2018.10.31 at 08h 45m 24s.xml">
-      <configuration name="NetUtilsTest.getHostIp_returnsAValidHostIp" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 23m 33s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest - 2018.10.31 at 08h 46m 30s.xml">
-      <configuration name="NetUtilsTest" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 31m 30s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest - 2018.10.31 at 08h 49m 26s.xml">
-      <configuration name="NetUtilsTest" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 31m 47s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NetUtilsTest - 2018.10.31 at 08h 52m 03s.xml">
-      <configuration name="NetUtilsTest" configurationId="JUnit" />
+    <history-entry file="NetUtilsTest_getIp_returnsAValidHostIp - 2018.11.01 at 08h 37m 55s.xml">
+      <configuration name="NetUtilsTest.getIp_returnsAValidHostIp" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21388000" />
+    <option name="totallyTimeSpent" value="32227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Favorites" sideWeight="0.5008696" side_tool="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" />
@@ -810,8 +829,8 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -839,9 +858,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java</url>
-          <line>50</line>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -851,23 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -901,9 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/net/NetworkInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -918,37 +923,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java">
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-module-junit4/2.0.0-beta.5/cb634c5d6ec28852298bb2da8a3496921b2fc3d6/powermock-module-junit4-2.0.0-beta.5-sources.jar!/org/powermock/modules/junit4/internal/impl/PowerMockJUnit44RunnerDelegateImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="362">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Sonoff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2220#2221#0" expanded="true" />
-            <element signature="e#2286#2287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/model/Manufacturer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/habitat/discovery/util/NetUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2278#2279#0" expanded="true" />
+            <element signature="e#2345#2346#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/my/habitat/discovery/util/NetUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="313">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
